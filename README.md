@@ -42,7 +42,7 @@ From July to mid September 2023, I attended Le Wagon fullstack bootcamp in Berli
 
 Key concepts:
 - Regexp
-- Database: SQL
+- Database: SQL, ActiveRecord
 - Backend: Ruby
 - Frontend / Design: Javascript, HTML, CSS, Figma
 - Platforms: Heroku, Rails
