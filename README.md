@@ -37,3 +37,13 @@ To be continued...
 -----
 
 ### Le Wagon web development bootcamp
+
+From July to mid September 2023, I attended Le Wagon fullstack bootcamp in Berlin. It introduced me to the web development world.
+
+Key concepts:
+- Database: SQL
+- Backend: Ruby
+- Frontend / Design: Javascript, HTML, CSS, Figma
+- Platforms: Heroku, Rails
+
+[Selection of projects](https://github.com/mdarbois/LeWagon-fullstack)
