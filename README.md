@@ -17,3 +17,20 @@ Here are some ideas to get you started:
 After three years in advertising/strategy, I decided to embark on a new coding journey. During my coding gap year, I completed half of the core curriculum at 42 Berlin and the 3-months full-stack web development bootcamp at Le Wagon. Have a look at my work!
 
 To be continued...
+
+
+### 42 School Projects
+
+Create a library of basic C functions: [libft](https://github.com/mdarbois/42/tree/main/0.0%20Libft)
+Recode the standard C library function, printf: [ft_printf](https://github.com/mdarbois/42/tree/main/1.0%20Ft_printf)
+Read a single line from a file descriptor, can be used in a loop: [get_next_line](https://github.com/mdarbois/42/tree/main/1.1%20Get_next_line)
+Create a virtual machine to host a Debian server: [born2beroot]
+Sort a list of random integers in the least amount of moves possible: [push_swap](https://github.com/mdarbois/42/tree/main/2.0%20Push_swap)
+Recreate the shell pipe behavior: [pipex](https://github.com/mdarbois/42/tree/main/2.1%20Pipex)
+A small 2D Game made using the MiniLibX Graphics Library: [so_long](https://github.com/mdarbois/42/tree/main/2.2%20So_long)
+Solve the dining philosophers problem with semaphores: [philosophers](https://github.com/mdarbois/42/tree/main/3.0%20Philosophers)
+Create a minitature shell program: [minishell](https://github.com/mdarbois/42/tree/main/3.1%20Minishell)
+
+[More information about these projects](https://github.com/mdarbois/42)
+
+### Le Wagon web development bootcamp
