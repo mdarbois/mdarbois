@@ -36,7 +36,7 @@ To be continued...
 
 -----
 
-### Le Wagon web development bootcamp
+### Le Wagon Fullstack Web Development Bootcamp
 
 From July to mid September 2023, I attended Le Wagon fullstack bootcamp in Berlin. It introduced me to the web development world.
 
