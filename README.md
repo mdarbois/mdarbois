@@ -41,6 +41,7 @@ To be continued...
 From July to mid September 2023, I attended Le Wagon fullstack bootcamp in Berlin. It introduced me to the web development world.
 
 Key concepts:
+- Regexp
 - Database: SQL
 - Backend: Ruby
 - Frontend / Design: Javascript, HTML, CSS, Figma
