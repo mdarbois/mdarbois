@@ -18,6 +18,7 @@ After three years in advertising/strategy, I decided to embark on a new coding j
 
 To be continued...
 
+-----
 
 ### 42 School Projects
 
@@ -32,5 +33,7 @@ To be continued...
 - Create a minitature shell program: [minishell](https://github.com/mdarbois/42/tree/main/3.1%20Minishell)
 
 [More information about these projects](https://github.com/mdarbois/42)
+
+-----
 
 ### Le Wagon web development bootcamp
