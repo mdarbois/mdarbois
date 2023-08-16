@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world 👋
 
 <!--
 **mdarbois/mdarbois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+After three years in advertising/strategy, I decided to embark on a new coding journey. During my coding gap year, I completed half of the core curriculum at 42 Berlin and the 3-months full-stack web development bootcamp at Le Wagon. Have a look at my work!
+
+To be continued...
