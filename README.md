@@ -34,6 +34,7 @@ To be continued...
 - Create a Wolfenstein3D-like maze program. Team project: [cub3D](https://github.com/mdarbois/42/tree/main/4.1%20Cub3D)
 - Introduction to Object-Oriented Programing in C++: [CPP modules](https://github.com/mdarbois/42/tree/main/4.0%20CPP%20Modules)
 - HTTP web server in C++: [Webserv](https://github.com/mdarbois/42_webserv)
+- Docker network with containers for nginx, mariadb, and wordpress: [Inception](https://github.com/mdarbois/42_Inception/tree/main)
   
 [More information about these projects](https://github.com/mdarbois/42)
 
