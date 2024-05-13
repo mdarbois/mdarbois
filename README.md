@@ -35,6 +35,7 @@ To be continued...
 - Introduction to Object-Oriented Programing in C++: [CPP modules](https://github.com/mdarbois/42/tree/main/4.0%20CPP%20Modules)
 - HTTP web server in C++: [Webserv](https://github.com/mdarbois/42_webserv)
 - Docker network with containers for nginx, mariadb, and wordpress: [Inception](https://github.com/mdarbois/42_Inception/tree/main)
+- Recreate the famous pong game in a single-page Django application: [Transcendence](https://github.com/Linuswidmer/42_transcendence)
   
 [More information about these projects](https://github.com/mdarbois/42)
 
