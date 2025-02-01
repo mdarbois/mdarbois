@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-After three years in advertising/strategy, I decided to embark on a new coding journey. I'm currently a student at [42 Berlin](https://42berlin.de) and completed the 3-months full-stack web development bootcamp at [Le Wagon](https://www.lewagon.com/berlin/web-development-course). Have a look at my work!
+After three years in advertising/strategy, I decided to embark on a new coding journey. I successfully completed the core curriculum program at [42 Berlin](https://42berlin.de) and  the 3-months full-stack web development bootcamp at [Le Wagon](https://www.lewagon.com/berlin/web-development-course). 
+
+Since November 2024, I joined Amazon as a software developer engineer. 
 
 To be continued...
 
